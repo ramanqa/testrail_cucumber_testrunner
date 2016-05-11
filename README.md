@@ -2,6 +2,7 @@
 
 ### Add following in project pom file:
 
+```
  <plugin>
       <groupId>org.codehaus.mojo</groupId>
       <artifactId>exec-maven-plugin</artifactId>
@@ -39,4 +40,4 @@
           </execution>
       </executions>
   </plugin>
-
+```
